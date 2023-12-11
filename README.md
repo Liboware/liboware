@@ -8,7 +8,7 @@
 
 ## 🌱博客系列
 
-+ **【CSDN】 [https://blog.csdn.net/l569590478](https://blog.csdn.net/l569590478)**
++ **【CSDN】 [https://blog.csdn.net/l569590478](https://liboware.blog.csdn.net)**
 + **【InfoQ】[https://www.infoq.cn/u/liboware](https://www.infoq.cn/u/liboware/publish/)**
 + **【OSChina】[https://my.oschina.net/liboware](https://my.oschina.net/liboware/)**
 + **【51CTO】[https://blog.51cto.com/alex4dream](https://blog.51cto.com/alex4dream)**
