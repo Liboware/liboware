@@ -12,7 +12,7 @@
 + **【InfoQ】[www.infoq.cn/u/liboware](https://www.infoq.cn/u/liboware/publish/)**
 + **【OSChina】[my.oschina.net/liboware](https://my.oschina.net/liboware/)**
 + **【51CTO】[blog.51cto.com/alex4dream](https://blog.51cto.com/alex4dream)**
-+ **【掘金JueJin】[juejin.cn/user/3966693683772462](https://juejin.cn/user/3966693683772462)**
++ **【稀土掘金】[juejin.cn/user/3966693683772462](https://juejin.cn/user/3966693683772462)**
 + **【腾讯云】[cloud.tencent.com/developer/user/3586552/activities](https://cloud.tencent.com/developer/user/3586552/activities)**
 + **【阿里云】[developer.aliyun.com/profile/expert/6w4x54kwa7p4m](https://developer.aliyun.com/profile/expert/6w4x54kwa7p4m)**
 + **【简书】[www.jianshu.com/u/a3004510746b](https://www.jianshu.com/u/a3004510746b)**
