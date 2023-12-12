@@ -37,7 +37,7 @@
 - 📕【出版书籍】
   - 《深入浅出Java虚拟机 — JVM原理与实战》
       <p class="text-left">
-			  <a href="https://item.jd.com/13762401.html" target="_blank"><img src="images/book2.jpg" width="195" height="195" alt=""></a>
+			  <a href="https://item.jd.com/13762401.html" target="_blank"><img src="book2.jpg" width="195" height="195" alt=""></a>
       </p>
 		  <p class="text-left">
 			  <a href="https://item.jd.com/13762401.html" target="_blank">京东-点击链接</a>
