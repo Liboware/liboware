@@ -1,4 +1,4 @@
-## 🤔个人简介
+![00B79E2A](https://github.com/Liboware/liboware/assets/18031935/3aa3d904-45f7-4dab-8de0-0a8c484850c9)## 🤔个人简介
 
 ### Hello👋，我是洛神灬殇！真名叫做李博，英文名为Alex，本人是个酷爱计算机科学、醉心编程技术、喜爱健身运动、热衷悬疑推理的“极客达人”。
 
@@ -49,6 +49,9 @@
 ## ✒ 技术领域
 
 ![图片](https://user-images.githubusercontent.com/18031935/231723783-154bf275-e3af-452f-bf8b-e2efd32373e1.png)
+
+## ![00B7B02B](https://github.com/Liboware/liboware/assets/18031935/c8d5f113-cb21-4cab-a47e-1c0c01ceb776) 兴趣爱好
+
 ![图片](https://user-images.githubusercontent.com/18031935/232239272-e6d12ae6-66f5-4ef6-96e4-21001dc721cc.png)
 
 ---
