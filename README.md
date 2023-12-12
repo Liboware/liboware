@@ -36,7 +36,13 @@
   - 任何足够先进的技术都与魔法无异 / 世界上并没有完美的程序，但是我们并不因此而沮丧，因为写程序就是一个不断追求完美的过程
 - 📕【出版书籍】
   - 《深入浅出Java虚拟机 — JVM原理与实战》
-![图片](https://liboware.github.io/images/book2.jpg)
+      <p class="text-left">
+			  <a href="https://item.jd.com/13762401.html" target="_blank"><img src="images/book2.jpg" width="195" height="195" alt=""></a>
+      </p>
+		  <p class="text-left">
+			  <a href="https://item.jd.com/13762401.html" target="_blank">京东-点击链接</a>
+			  <a href="http://product.dangdang.com/29583403.html" target="_blank">当当-点击链接</a>			
+     </p>
 
 ---
 
