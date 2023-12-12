@@ -25,7 +25,7 @@
 
 ---
 
-## ![00C282EC](https://github.com/Liboware/liboware/assets/18031935/e86f6872-ff89-47fa-b6d8-29bdbceefa41) 博客系列
+## ![00C282EC](https://github.com/Liboware/liboware/assets/18031935/e86f6872-ff89-47fa-b6d8-29bdbceefa41) 技术博客
 
 + **【CSDN】 [liboware.blog.csdn.net](https://liboware.blog.csdn.net)**
 + **【InfoQ】[www.infoq.cn/u/liboware](https://www.infoq.cn/u/liboware/publish/)**
@@ -39,7 +39,7 @@
 
 ---
 
-## ![00B840E2](https://github.com/Liboware/liboware/assets/18031935/864f846f-6e8f-40f2-9195-792ac24d9da1) 技术领域
+## ![00B840E2](https://github.com/Liboware/liboware/assets/18031935/864f846f-6e8f-40f2-9195-792ac24d9da1) 擅长技术
 
 ![图片](https://user-images.githubusercontent.com/18031935/231723783-154bf275-e3af-452f-bf8b-e2efd32373e1.png)
 
