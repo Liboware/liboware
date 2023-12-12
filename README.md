@@ -6,20 +6,6 @@
 
 ---
 
-## ![00C282EC](https://github.com/Liboware/liboware/assets/18031935/e86f6872-ff89-47fa-b6d8-29bdbceefa41) 博客系列
-
-+ **【CSDN】 [liboware.blog.csdn.net](https://liboware.blog.csdn.net)**
-+ **【InfoQ】[www.infoq.cn/u/liboware](https://www.infoq.cn/u/liboware/publish/)**
-+ **【OSChina】[my.oschina.net/liboware](https://my.oschina.net/liboware/)**
-+ **【51CTO】[blog.51cto.com/alex4dream](https://blog.51cto.com/alex4dream)**
-+ **【稀土掘金】[juejin.cn/user/3966693683772462](https://juejin.cn/user/3966693683772462)**
-+ **【腾讯云】[cloud.tencent.com/developer/user/3586552/activities](https://cloud.tencent.com/developer/user/3586552/activities)**
-+ **【阿里云】[developer.aliyun.com/profile/expert/6w4x54kwa7p4m](https://developer.aliyun.com/profile/expert/6w4x54kwa7p4m)**
-+ **【简书】[www.jianshu.com/u/a3004510746b](https://www.jianshu.com/u/a3004510746b)**
-+ **【博客园】[https://www.cnblogs.com/liboware](https://www.cnblogs.com/liboware)**
-
----
-
 ## ![00C9637B](https://github.com/Liboware/liboware/assets/18031935/9cfccab5-afc8-49ae-b5ce-be68bb3f4e00) 个人信息
 
 - 😄【基本介绍】 目前就职于一家互联网公司担任技术研发经理及技术架构师，🏆InfoQ写作平台-签约作者🏆，CSDN博客专家，51CTO讲师，慕课网讲师，阿里云社区[专家博主],之前曾就职于神州数码和优酷参与Java软件开发工作。
@@ -36,6 +22,20 @@
 			  <a href="https://item.jd.com/13762401.html" target="_blank">京东-点击链接</a>
 			  <a href="http://product.dangdang.com/29583403.html" target="_blank">当当-点击链接</a>			
      </p>
+
+---
+
+## ![00C282EC](https://github.com/Liboware/liboware/assets/18031935/e86f6872-ff89-47fa-b6d8-29bdbceefa41) 博客系列
+
++ **【CSDN】 [liboware.blog.csdn.net](https://liboware.blog.csdn.net)**
++ **【InfoQ】[www.infoq.cn/u/liboware](https://www.infoq.cn/u/liboware/publish/)**
++ **【OSChina】[my.oschina.net/liboware](https://my.oschina.net/liboware/)**
++ **【51CTO】[blog.51cto.com/alex4dream](https://blog.51cto.com/alex4dream)**
++ **【稀土掘金】[juejin.cn/user/3966693683772462](https://juejin.cn/user/3966693683772462)**
++ **【腾讯云】[cloud.tencent.com/developer/user/3586552/activities](https://cloud.tencent.com/developer/user/3586552/activities)**
++ **【阿里云】[developer.aliyun.com/profile/expert/6w4x54kwa7p4m](https://developer.aliyun.com/profile/expert/6w4x54kwa7p4m)**
++ **【简书】[www.jianshu.com/u/a3004510746b](https://www.jianshu.com/u/a3004510746b)**
++ **【博客园】[https://www.cnblogs.com/liboware](https://www.cnblogs.com/liboware)**
 
 ---
 
